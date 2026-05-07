@@ -2,6 +2,7 @@
 # Document Metadata Mutation Checker
 
 ## Project Setup
+git clone  https://github.com/aadi-tya-1711/Metadata-Mutation-Checker
 
 ### Backend
 
