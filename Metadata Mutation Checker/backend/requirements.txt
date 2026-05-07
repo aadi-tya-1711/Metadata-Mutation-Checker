@@ -1,7 +1,0 @@
-fastapi>=0.115.0
-uvicorn[standard]>=0.32.0
-python-multipart>=0.0.18
-pypdf>=5.1.0
-pdfminer.six>=20240706
-pillow>=11.0.0
-pydantic>=2.10.0
